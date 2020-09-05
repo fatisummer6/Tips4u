@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Tips4you",
+    "description": "",
+    "home_page_url": "https://fatisummer6.github.io/Tips4u/.",
+    "feed_url": "https://fatisummer6.github.io/Tips4u/./feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "TopTip"
+    },
+    "items": [
+        {
+            "id": "https://fatisummer6.github.io/Tips4u/./what-ever.html",
+            "url": "https://fatisummer6.github.io/Tips4u/./what-ever.html",
+            "title": "what ever",
+            "author": {
+                "name": "TopTip"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-09-05T17:04:20+02:00",
+            "date_modified": "2020-09-05T17:04:20+02:00"
+        }
+    ]
+}
